@@ -4,7 +4,7 @@
 
 * 예선	
 	* [연습문제] 비밀번호 검사	https://nypc.github.io/2019/2019_online_1.html
-	* 풀이 : https://github.com/codingpen-io/nypc2019/blob/master/online_01.py
+		* 풀이 : https://github.com/codingpen-io/nypc2019/blob/master/online_01.py
 		
   * [연습문제] 숫자 인식하기	https://nypc.github.io/2019/2019_online_2.html
 	
