@@ -3,10 +3,15 @@
 # NYPC 2019 문제풀이
 
 * 예선	
-  * [연습문제] 비밀번호 검사	https://nypc.github.io/2019/2019_online_1.html
+	* [연습문제] 비밀번호 검사	https://nypc.github.io/2019/2019_online_1.html
+  	* 풀이 : https://github.com/codingpen-io/nypc2019/blob/master/online_01.py
+		
   * [연습문제] 숫자 인식하기	https://nypc.github.io/2019/2019_online_2.html
+	
   * 최대 HP	https://nypc.github.io/2019/2019_online_3.html
+	
   * 요리 제작	https://nypc.github.io/2019/2019_online_4.html
+	
   * ID 확인	https://nypc.github.io/2019/2019_online_5.html
   * 우산	https://nypc.github.io/2019/2019_online_6.html
   * 달팽이 게임	https://nypc.github.io/2019/2019_online_7.html
