@@ -2,6 +2,7 @@
 # input : {NYPC2019} output: invalid
 # input : {NYPc2019} output: valid
 
+
 def is_valid(password):
     if len(password) < 8:
         return False
